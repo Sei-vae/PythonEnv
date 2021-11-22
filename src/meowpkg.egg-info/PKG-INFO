@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: meowpkg
+Version: 0.0.1
+Summary: a package that meows
+Home-page: UNKNOWN
+Author: Sei
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Provides-Extra: testing
+
+UNKNOWN
+

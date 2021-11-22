@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+meowpkg.egg-info/PKG-INFO
+meowpkg.egg-info/SOURCES.txt
+meowpkg.egg-info/dependency_links.txt
+meowpkg.egg-info/top_level.txt
+test/__init__.py
+test/testing.py

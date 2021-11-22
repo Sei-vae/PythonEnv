@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/XXX.egg-info/PKG-INFO
+src/XXX.egg-info/SOURCES.txt
+src/XXX.egg-info/dependency_links.txt
+src/XXX.egg-info/not-zip-safe
+src/XXX.egg-info/requires.txt
+src/XXX.egg-info/top_level.txt
+src/mylib/__init__.py
+src/mylib/code_is_here.py
+test/testing.py
